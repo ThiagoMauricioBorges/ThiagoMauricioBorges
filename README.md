@@ -1,4 +1,4 @@
-### Olá! Eu sou o Thiago Mauricio Borges, sou estudande de programação e pretendo trabalhar como full stack!
+### Olá! Eu sou o Thiago Mauricio Borges, estou estudando programação e pretendo trabalhar como full stack!
 <div align="center">
   <a href="https://github.com/ThiagoMauricioBorges">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=ThiagoMauricioBorges&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
